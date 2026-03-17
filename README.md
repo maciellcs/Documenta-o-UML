@@ -25,7 +25,7 @@ Diagrama de Componentes;
 Diagrama de Pacotes;
 Diagrama de Implantação.
 
-3. Diagramas Comportamentais (mostram como o sistema se comporta):
+2. Diagramas Comportamentais (mostram como o sistema se comporta):
 
 - Diagrama de Casos de Uso;
 - Diagrama de Sequência;
