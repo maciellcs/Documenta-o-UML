@@ -19,11 +19,11 @@ A UML é dividida em dois grandes grupos:
 
 1. Diagramas Estruturais (mostram o que o sistema é):
 
-Diagrama de Classes;
-Diagrama de Objetos;
-Diagrama de Componentes;
-Diagrama de Pacotes;
-Diagrama de Implantação.
+- Diagrama de Classes;
+- Diagrama de Objetos;
+- Diagrama de Componentes;
+- Diagrama de Pacotes;
+- Diagrama de Implantação.
 
 2. Diagramas Comportamentais (mostram como o sistema se comporta):
 
